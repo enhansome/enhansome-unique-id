@@ -19,7 +19,7 @@
             "last_commit": "2026-08-10T20:13:57Z",
             "owner": "ai",
             "repo": "nanoid",
-            "stars": 26934
+            "stars": 26935
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-08-08T12:06:10Z",
             "owner": "uuidjs",
             "repo": "uuid",
-            "stars": 15316
+            "stars": 15317
           }
         },
         {
@@ -291,7 +291,7 @@
             "last_commit": "2026-06-25T23:25:15Z",
             "owner": "segmentio",
             "repo": "ksuid",
-            "stars": 5262
+            "stars": 5263
           }
         },
         {
@@ -305,7 +305,7 @@
             "last_commit": "2026-07-24T08:45:50Z",
             "owner": "rs",
             "repo": "xid",
-            "stars": 4280
+            "stars": 4281
           }
         }
       ],
@@ -318,7 +318,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T04:04:15.402Z",
+    "last_updated": "2026-08-16T04:08:32.544Z",
     "original_repository": "grantcarthew/awesome-unique-id",
     "original_repository_sha": "e79fecd2a33f072b2df97f6213befc897d017a26",
     "enhanced_repository": "enhansome/enhansome-unique-id",
