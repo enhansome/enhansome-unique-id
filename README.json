@@ -1,325 +1,345 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "nanoid",
+              "description": "(npm) - A tiny, secure URL-friendly unique string ID generator for JavaScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 99401299,
+                "language": "JavaScript",
+                "last_commit": "2026-08-10T20:13:57Z",
+                "owner": "ai",
+                "repo": "nanoid",
+                "stars": 26938
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "uuid",
+              "description": "(npm) - Simple, fast generation of RFC4122 UUIDS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1203139,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T18:19:21Z",
+                "owner": "uuidjs",
+                "repo": "uuid",
+                "stars": 15319
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "shortid",
+              "description": "(npm) - [Deprecated] Amazingly short non-sequential url-friendly unique id generator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3009729,
+                "language": "JavaScript",
+                "last_commit": "2025-01-23T19:16:09Z",
+                "owner": "dylang",
+                "repo": "shortid",
+                "stars": 5712
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cuid2",
+              "description": "(npm) - Secure, collision-resistant ids optimized for horizontal scaling and performance. Next generation uuids.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 582424780,
+                "language": "JavaScript",
+                "last_commit": "2026-08-12T22:06:08Z",
+                "owner": "paralleldrive",
+                "repo": "cuid2",
+                "stars": 3389
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "uuid-readable",
+              "description": "(npm) - Generate Easy to Remember, Readable UUIDs, that are Shakespearean and Grammatically Correct Sentences.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 280972261,
+                "language": "TypeScript",
+                "last_commit": "2023-01-19T05:26:59Z",
+                "owner": "Debdut",
+                "repo": "uuid-readable",
+                "stars": 822
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hyperid",
+              "description": "(npm) - Uber-fast unique id generation, for Node.js and the browser.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66265596,
+                "language": "JavaScript",
+                "last_commit": "2026-07-17T08:41:12Z",
+                "owner": "mcollina",
+                "repo": "hyperid",
+                "stars": 751
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "uid",
+              "description": "(npm) - Generate unique ids of any length.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 244573944,
+                "language": "JavaScript",
+                "last_commit": "2024-09-27T06:12:32Z",
+                "owner": "lukeed",
+                "repo": "uid",
+                "stars": 667
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "uniqid",
+              "description": "(npm) - A Unique Hexatridecimal ID generator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22779764,
+                "language": "JavaScript",
+                "last_commit": "2023-06-17T22:28:13Z",
+                "owner": "adamhalasz",
+                "repo": "uniqid",
+                "stars": 610
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "crypto-random-string",
+              "description": "(npm) - Generate a cryptographically strong random string.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73665728,
+                "language": "JavaScript",
+                "last_commit": "2026-07-23T16:45:42Z",
+                "owner": "sindresorhus",
+                "repo": "crypto-random-string",
+                "stars": 588
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ksuid",
+              "description": "(npm) - K-Sortable Globally Unique IDs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93953668,
+                "language": "JavaScript",
+                "last_commit": "2021-10-30T15:31:30Z",
+                "owner": "novemberborn",
+                "repo": "ksuid",
+                "stars": 261
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flake-idgen",
+              "description": "(npm) - Flake ID generator yields k-ordered, conflict-free ids in a distributed environment.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15749731,
+                "language": "JavaScript",
+                "last_commit": "2023-01-09T05:43:17Z",
+                "owner": "vipermind",
+                "repo": "flake-idgen",
+                "stars": 251
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "human-id",
+              "description": "(npm) - Generates human-readable identifier strings by chaining common (short) words of the English language.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 134918163,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T04:43:20Z",
+                "owner": "RienNeVaPlus",
+                "repo": "human-id",
+                "stars": 245
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "puid",
+              "description": "(npm) - Generate a unique ID depending on time, machine and process for use in a distributed environment.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8706636,
+                "language": "JavaScript",
+                "last_commit": "2021-01-20T20:30:31Z",
+                "owner": "pid",
+                "repo": "puid",
+                "stars": 239
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "uid-safe",
+              "description": "(npm) - URL and cookie safe UIDs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20955910,
+                "language": "JavaScript",
+                "last_commit": "2021-02-18T02:28:45Z",
+                "owner": "crypto-utils",
+                "repo": "uid-safe",
+                "stars": 142
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yeast",
+              "description": "(npm) - Yeast is a unique id generator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26240771,
+                "language": "JavaScript",
+                "last_commit": "2023-01-10T19:29:04Z",
+                "owner": "unshiftio",
+                "repo": "yeast",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "uniqueid",
+              "description": "(npm) - Generate sequential IDs, with optional prefix or suffix.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24016974,
+                "language": "JavaScript",
+                "last_commit": "2023-12-12T07:36:19Z",
+                "owner": "jonschlinkert",
+                "repo": "uniqueid",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "get-uid",
+              "description": "(npm) - Simple random id generator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29816111,
+                "language": "JavaScript",
+                "last_commit": "2015-01-25T14:17:31Z",
+                "owner": "dy",
+                "repo": "get-uid",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "breezeid",
+              "description": "(npm) - Easily generate unique, human-first IDs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 813441512,
+                "language": "JavaScript",
+                "last_commit": "2026-03-13T20:58:54Z",
+                "owner": "tzwel",
+                "repo": "breezeid",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "unique-sequence",
+              "description": "(npm) - Generate short sequential strings.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 439831925,
+                "language": "JavaScript",
+                "last_commit": "2022-01-15T12:37:29Z",
+                "owner": "kayomarz",
+                "repo": "unique-sequence",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "JavaScript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ksuid",
+              "description": "K-Sortable Globally Unique IDs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90921999,
+                "language": "Go",
+                "last_commit": "2026-06-25T23:25:15Z",
+                "owner": "segmentio",
+                "repo": "ksuid",
+                "stars": 5264
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xid",
+              "description": "Xid is a globally unique id generator thought for the web.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45938451,
+                "language": "Go",
+                "last_commit": "2026-07-24T08:45:50Z",
+                "owner": "rs",
+                "repo": "xid",
+                "stars": 4281
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Go"
+        }
+      ],
       "title": "Generation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "nanoid",
-          "description": "(npm) - A tiny, secure URL-friendly unique string ID generator for JavaScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-10T20:13:57Z",
-            "owner": "ai",
-            "repo": "nanoid",
-            "stars": 26937
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "uuid",
-          "description": "(npm) - Simple, fast generation of RFC4122 UUIDS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T18:19:21Z",
-            "owner": "uuidjs",
-            "repo": "uuid",
-            "stars": 15318
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "shortid",
-          "description": "(npm) - [Deprecated] Amazingly short non-sequential url-friendly unique id generator.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-01-23T19:16:09Z",
-            "owner": "dylang",
-            "repo": "shortid",
-            "stars": 5712
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cuid2",
-          "description": "(npm) - Secure, collision-resistant ids optimized for horizontal scaling and performance. Next generation uuids.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-12T22:06:08Z",
-            "owner": "paralleldrive",
-            "repo": "cuid2",
-            "stars": 3389
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "uuid-readable",
-          "description": "(npm) - Generate Easy to Remember, Readable UUIDs, that are Shakespearean and Grammatically Correct Sentences.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-19T05:26:59Z",
-            "owner": "Debdut",
-            "repo": "uuid-readable",
-            "stars": 822
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hyperid",
-          "description": "(npm) - Uber-fast unique id generation, for Node.js and the browser.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-17T08:41:12Z",
-            "owner": "mcollina",
-            "repo": "hyperid",
-            "stars": 751
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "uid",
-          "description": "(npm) - Generate unique ids of any length.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-09-27T06:12:32Z",
-            "owner": "lukeed",
-            "repo": "uid",
-            "stars": 667
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "uniqid",
-          "description": "(npm) - A Unique Hexatridecimal ID generator.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-06-17T22:28:13Z",
-            "owner": "adamhalasz",
-            "repo": "uniqid",
-            "stars": 610
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "crypto-random-string",
-          "description": "(npm) - Generate a cryptographically strong random string.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-23T16:45:42Z",
-            "owner": "sindresorhus",
-            "repo": "crypto-random-string",
-            "stars": 588
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ksuid",
-          "description": "(npm) - K-Sortable Globally Unique IDs",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-10-30T15:31:30Z",
-            "owner": "novemberborn",
-            "repo": "ksuid",
-            "stars": 261
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flake-idgen",
-          "description": "(npm) - Flake ID generator yields k-ordered, conflict-free ids in a distributed environment.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-09T05:43:17Z",
-            "owner": "vipermind",
-            "repo": "flake-idgen",
-            "stars": 251
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "human-id",
-          "description": "(npm) - Generates human-readable identifier strings by chaining common (short) words of the English language.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-04T00:09:15Z",
-            "owner": "RienNeVaPlus",
-            "repo": "human-id",
-            "stars": 245
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "puid",
-          "description": "(npm) - Generate a unique ID depending on time, machine and process for use in a distributed environment.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-01-20T20:30:31Z",
-            "owner": "pid",
-            "repo": "puid",
-            "stars": 239
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "uid-safe",
-          "description": "(npm) - URL and cookie safe UIDs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-02-18T02:28:45Z",
-            "owner": "crypto-utils",
-            "repo": "uid-safe",
-            "stars": 142
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "yeast",
-          "description": "(npm) - Yeast is a unique id generator.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-10T19:29:04Z",
-            "owner": "unshiftio",
-            "repo": "yeast",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "uniqueid",
-          "description": "(npm) - Generate sequential IDs, with optional prefix or suffix.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-12-12T07:36:19Z",
-            "owner": "jonschlinkert",
-            "repo": "uniqueid",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "get-uid",
-          "description": "(npm) - Simple random id generator.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2015-01-25T14:17:31Z",
-            "owner": "dy",
-            "repo": "get-uid",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "breezeid",
-          "description": "(npm) - Easily generate unique, human-first IDs",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-13T20:58:54Z",
-            "owner": "tzwel",
-            "repo": "breezeid",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "unique-sequence",
-          "description": "(npm) - Generate short sequential strings.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-01-15T12:37:29Z",
-            "owner": "kayomarz",
-            "repo": "unique-sequence",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "JavaScript"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ksuid",
-          "description": "K-Sortable Globally Unique IDs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-06-25T23:25:15Z",
-            "owner": "segmentio",
-            "repo": "ksuid",
-            "stars": 5263
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xid",
-          "description": "Xid is a globally unique id generator thought for the web.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-24T08:45:50Z",
-            "owner": "rs",
-            "repo": "xid",
-            "stars": 4281
-          }
-        }
-      ],
-      "title": "Go"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Contributors"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T04:08:06.140Z",
+    "last_updated": "2026-08-19T12:56:07.128Z",
     "original_repository": "grantcarthew/awesome-unique-id",
+    "original_repository_id": 100314445,
     "original_repository_sha": "e79fecd2a33f072b2df97f6213befc897d017a26",
     "enhanced_repository": "enhansome/enhansome-unique-id",
     "enhanced_repository_description": null,
