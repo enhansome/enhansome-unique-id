@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-10T20:13:57Z",
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26938
+                "stars": 26941
               }
             },
             {
@@ -167,7 +167,7 @@
                 "last_commit": "2023-01-09T05:43:17Z",
                 "owner": "vipermind",
                 "repo": "flake-idgen",
-                "stars": 251
+                "stars": 252
               }
             },
             {
@@ -337,7 +337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:56:07.128Z",
+    "last_updated": "2026-08-20T04:08:13.101Z",
     "original_repository": "grantcarthew/awesome-unique-id",
     "original_repository_id": 100314445,
     "original_repository_sha": "e79fecd2a33f072b2df97f6213befc897d017a26",
