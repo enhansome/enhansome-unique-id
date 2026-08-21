@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-10T20:13:57Z",
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26941
+                "stars": 26942
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-18T18:19:21Z",
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15319
+                "stars": 15320
               }
             },
             {
@@ -337,7 +337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T04:08:13.101Z",
+    "last_updated": "2026-08-21T04:09:47.597Z",
     "original_repository": "grantcarthew/awesome-unique-id",
     "original_repository_id": 100314445,
     "original_repository_sha": "e79fecd2a33f072b2df97f6213befc897d017a26",
