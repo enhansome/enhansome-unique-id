@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-18T18:19:21Z",
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15320
+                "stars": 15322
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-12T22:06:08Z",
                 "owner": "paralleldrive",
                 "repo": "cuid2",
-                "stars": 3389
+                "stars": 3390
               }
             },
             {
@@ -309,7 +309,7 @@
                 "last_commit": "2026-06-25T23:25:15Z",
                 "owner": "segmentio",
                 "repo": "ksuid",
-                "stars": 5264
+                "stars": 5265
               }
             },
             {
@@ -337,7 +337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T04:09:47.597Z",
+    "last_updated": "2026-08-22T04:06:28.260Z",
     "original_repository": "grantcarthew/awesome-unique-id",
     "original_repository_id": 100314445,
     "original_repository_sha": "e79fecd2a33f072b2df97f6213befc897d017a26",
