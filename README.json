@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "uuidv7",
+              "description": "(RFC9562 uuidv7 reference) - UUID 128-bit unique identifier that is time-sortable with 1 ms precision.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 815485699,
+                "language": "Racket",
+                "last_commit": "2025-12-26T11:39:20Z",
+                "owner": "nalgeon",
+                "repo": "uuidv7",
+                "stars": 109
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Polyglot"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "nanoid",
               "description": "(npm) - A tiny, secure URL-friendly unique string ID generator for JavaScript.",
               "children": [],
@@ -17,7 +39,7 @@
                 "last_commit": "2026-08-10T20:13:57Z",
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26938
+                "stars": 26939
               }
             },
             {
@@ -299,6 +321,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "muid",
+              "description": "(PyPI) - Generates IDs whose hashes are, in part, memorable.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 244990077,
+                "language": "Python",
+                "last_commit": "2022-09-29T19:51:27Z",
+                "owner": "microprediction",
+                "repo": "muid",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "ksuid",
               "description": "K-Sortable Globally Unique IDs.",
               "children": [],
@@ -324,7 +368,7 @@
                 "last_commit": "2026-07-24T08:45:50Z",
                 "owner": "rs",
                 "repo": "xid",
-                "stars": 4281
+                "stars": 4282
               }
             }
           ],
@@ -334,10 +378,52 @@
         }
       ],
       "title": "Generation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RoboHash",
+          "description": "(GitHub) - Generate unique images from any text.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2002423,
+            "language": "JavaScript",
+            "last_commit": "2026-07-21T08:05:11Z",
+            "owner": "e1ven",
+            "repo": "Robohash",
+            "stars": 1345
+          }
+        }
+      ],
+      "title": "Hash"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "uuinfo",
+          "description": "A tool to debug unique identifiers (UUID, ULID, Snowflake, etc).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 890054634,
+            "language": "Rust",
+            "last_commit": "2026-05-31T13:56:42Z",
+            "owner": "Racum",
+            "repo": "uuinfo",
+            "stars": 66
+          }
+        }
+      ],
+      "title": "CLI Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:21:16.892Z",
+    "last_updated": "2026-08-24T14:27:36.899Z",
     "original_repository": "grantcarthew/awesome-unique-id",
     "original_repository_id": 100314445,
     "original_repository_sha": "e79fecd2a33f072b2df97f6213befc897d017a26",

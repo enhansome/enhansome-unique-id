@@ -20,7 +20,7 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 
 ### JavaScript
 
-* [nanoid](https://github.com/ai/nanoid) ⭐ 26,938 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-10 ([npm](https://www.npmjs.com/package/nanoid)) - A tiny, secure URL-friendly unique string ID generator for JavaScript.
+* [nanoid](https://github.com/ai/nanoid) ⭐ 26,939 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-10 ([npm](https://www.npmjs.com/package/nanoid)) - A tiny, secure URL-friendly unique string ID generator for JavaScript.
 * [uuid](https://github.com/uuidjs/node-uuid) ⭐ 15,320 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-18 ([npm](https://www.npmjs.com/package/uuid)) - Simple, fast generation of RFC4122 UUIDS.
 * [shortid](https://github.com/dylang/shortid) ⭐ 5,712 | 🐛 16 | 🌐 JavaScript | 📅 2025-01-23 ([npm](https://www.npmjs.com/package/shortid)) - \[Deprecated] Amazingly short non-sequential url-friendly unique id generator.
 * [cuid2](https://github.com/paralleldrive/cuid2) ⭐ 3,390 | 🐛 9 | 🌐 JavaScript | 📅 2026-08-12 ([npm](https://www.npmjs.com/package/@paralleldrive/cuid2)) - Secure, collision-resistant ids optimized for horizontal scaling and performance. Next generation uuids.
@@ -49,11 +49,11 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 ### Go
 
 * [ksuid](https://github.com/segmentio/ksuid) ⭐ 5,265 | 🐛 22 | 🌐 Go | 📅 2026-06-25 - K-Sortable Globally Unique IDs.
-* [xid](https://github.com/rs/xid) ⭐ 4,281 | 🐛 19 | 🌐 Go | 📅 2026-07-24 - Xid is a globally unique id generator thought for the web.
+* [xid](https://github.com/rs/xid) ⭐ 4,282 | 🐛 20 | 🌐 Go | 📅 2026-07-24 - Xid is a globally unique id generator thought for the web.
 
 ## Hash
 
-* [RoboHash](https://robohash.org/) ([GitHub](https://github.com/e1ven/Robohash) ⭐ 1,344 | 🐛 2 | 🌐 JavaScript | 📅 2026-07-21) - Generate unique images from any text.
+* [RoboHash](https://robohash.org/) ([GitHub](https://github.com/e1ven/Robohash) ⭐ 1,345 | 🐛 2 | 🌐 JavaScript | 📅 2026-07-21) - Generate unique images from any text.
 
 ## CLI Tools
 
