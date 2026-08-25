@@ -353,7 +353,7 @@
                 "last_commit": "2026-06-25T23:25:15Z",
                 "owner": "segmentio",
                 "repo": "ksuid",
-                "stars": 5265
+                "stars": 5266
               }
             },
             {
@@ -423,7 +423,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:08:54.591Z",
+    "last_updated": "2026-08-25T06:20:09.838Z",
     "original_repository": "grantcarthew/awesome-unique-id",
     "original_repository_id": 100314445,
     "original_repository_sha": "e79fecd2a33f072b2df97f6213befc897d017a26",

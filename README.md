@@ -48,7 +48,7 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 
 ### Go
 
-* [ksuid](https://github.com/segmentio/ksuid) ⭐ 5,265 | 🐛 22 | 🌐 Go | 📅 2026-06-25 - K-Sortable Globally Unique IDs.
+* [ksuid](https://github.com/segmentio/ksuid) ⭐ 5,266 | 🐛 22 | 🌐 Go | 📅 2026-06-25 - K-Sortable Globally Unique IDs.
 * [xid](https://github.com/rs/xid) ⭐ 4,282 | 🐛 20 | 🌐 Go | 📅 2026-07-24 - Xid is a globally unique id generator thought for the web.
 
 ## Hash
