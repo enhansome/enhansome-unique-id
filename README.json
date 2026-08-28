@@ -18,7 +18,8 @@
                 "owner": "nalgeon",
                 "repo": "uuidv7",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-28T15:34:54.648Z"
             }
           ],
           "description": null,
@@ -39,8 +40,9 @@
                 "last_commit": "2026-08-10T20:13:57Z",
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26948
-              }
+                "stars": 26952
+              },
+              "first_seen": "2026-08-28T15:34:54.648Z"
             },
             {
               "node_type": "item",
@@ -55,7 +57,8 @@
                 "owner": "uuidjs",
                 "repo": "uuid",
                 "stars": 15320
-              }
+              },
+              "first_seen": "2026-08-28T15:34:54.648Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "dylang",
                 "repo": "shortid",
                 "stars": 5712
-              }
+              },
+              "first_seen": "2026-08-28T15:34:54.648Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "paralleldrive",
                 "repo": "cuid2",
                 "stars": 3394
-              }
+              },
+              "first_seen": "2026-08-28T15:34:54.648Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "Debdut",
                 "repo": "uuid-readable",
                 "stars": 822
-              }
+              },
+              "first_seen": "2026-08-28T15:34:54.648Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "mcollina",
                 "repo": "hyperid",
                 "stars": 751
-              }
+              },
+              "first_seen": "2026-08-28T15:34:54.648Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "lukeed",
                 "repo": "uid",
                 "stars": 667
-              }
+              },
+              "first_seen": "2026-08-28T15:34:54.648Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "adamhalasz",
                 "repo": "uniqid",
                 "stars": 610
-              }
+              },
+              "first_seen": "2026-08-28T15:34:54.648Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "sindresorhus",
                 "repo": "crypto-random-string",
                 "stars": 588
-              }
+              },
+              "first_seen": "2026-08-28T15:34:54.648Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "novemberborn",
                 "repo": "ksuid",
                 "stars": 261
-              }
+              },
+              "first_seen": "2026-08-28T15:34:54.648Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "vipermind",
                 "repo": "flake-idgen",
                 "stars": 252
-              }
+              },
+              "first_seen": "2026-08-28T15:34:54.648Z"
             },
             {
               "node_type": "item",
@@ -205,7 +217,8 @@
                 "owner": "RienNeVaPlus",
                 "repo": "human-id",
                 "stars": 245
-              }
+              },
+              "first_seen": "2026-08-28T15:34:54.648Z"
             },
             {
               "node_type": "item",
@@ -220,7 +233,8 @@
                 "owner": "pid",
                 "repo": "puid",
                 "stars": 239
-              }
+              },
+              "first_seen": "2026-08-28T15:34:54.648Z"
             },
             {
               "node_type": "item",
@@ -235,7 +249,8 @@
                 "owner": "crypto-utils",
                 "repo": "uid-safe",
                 "stars": 142
-              }
+              },
+              "first_seen": "2026-08-28T15:34:54.648Z"
             },
             {
               "node_type": "item",
@@ -250,7 +265,8 @@
                 "owner": "unshiftio",
                 "repo": "yeast",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T15:34:54.648Z"
             },
             {
               "node_type": "item",
@@ -265,7 +281,8 @@
                 "owner": "jonschlinkert",
                 "repo": "uniqueid",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T15:34:54.648Z"
             },
             {
               "node_type": "item",
@@ -280,7 +297,8 @@
                 "owner": "dy",
                 "repo": "get-uid",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T15:34:54.648Z"
             },
             {
               "node_type": "item",
@@ -295,7 +313,8 @@
                 "owner": "tzwel",
                 "repo": "breezeid",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T15:34:54.648Z"
             },
             {
               "node_type": "item",
@@ -310,7 +329,8 @@
                 "owner": "kayomarz",
                 "repo": "unique-sequence",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T15:34:54.648Z"
             }
           ],
           "description": null,
@@ -332,7 +352,8 @@
                 "owner": "microprediction",
                 "repo": "muid",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T15:34:54.648Z"
             }
           ],
           "description": null,
@@ -354,7 +375,8 @@
                 "owner": "segmentio",
                 "repo": "ksuid",
                 "stars": 5266
-              }
+              },
+              "first_seen": "2026-08-28T15:34:54.648Z"
             },
             {
               "node_type": "item",
@@ -369,7 +391,8 @@
                 "owner": "rs",
                 "repo": "xid",
                 "stars": 4282
-              }
+              },
+              "first_seen": "2026-08-28T15:34:54.648Z"
             }
           ],
           "description": null,
@@ -395,7 +418,8 @@
             "owner": "e1ven",
             "repo": "Robohash",
             "stars": 1345
-          }
+          },
+          "first_seen": "2026-08-28T15:34:54.648Z"
         }
       ],
       "title": "Hash"
@@ -416,14 +440,15 @@
             "owner": "Racum",
             "repo": "uuinfo",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T15:34:54.648Z"
         }
       ],
       "title": "CLI Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:28:34.305Z",
+    "last_updated": "2026-08-28T15:34:54.648Z",
     "original_repository_info": {
       "archived": false,
       "id": 100314445,
