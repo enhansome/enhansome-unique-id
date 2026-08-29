@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "UUIDv7 in N languages",
+                "homepage": null,
                 "id": 815485699,
                 "language": "Racket",
+                "license": "Unlicense",
                 "last_commit": "2025-12-26T11:39:20Z",
+                "open_issues": 0,
                 "owner": "nalgeon",
                 "repo": "uuidv7",
-                "stars": 109
+                "stars": 109,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
             }
@@ -35,12 +40,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tiny (118 bytes), secure, URL-friendly, unique string ID generator for JavaScript",
+                "homepage": "https://zelark.github.io/nano-id-cc/",
                 "id": 99401299,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-10T20:13:57Z",
+                "open_issues": 0,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26952
+                "stars": 26953,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
             },
@@ -51,12 +61,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate RFC-compliant UUIDs in JavaScript",
+                "homepage": null,
                 "id": 1203139,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-18T18:19:21Z",
+                "open_issues": 0,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15320
+                "stars": 15320,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
             },
@@ -67,12 +82,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Short id generator. Url-friendly. Non-predictable. Cluster-compatible.",
+                "homepage": "https://www.npmjs.org/package/shortid",
                 "id": 3009729,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2025-01-23T19:16:09Z",
+                "open_issues": 16,
                 "owner": "dylang",
                 "repo": "shortid",
-                "stars": 5712
+                "stars": 5712,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
             },
@@ -83,12 +103,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The most secure, collision-resistant ids optimized for horizontal scaling and performance.",
+                "homepage": null,
                 "id": 582424780,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-12T22:06:08Z",
+                "open_issues": 9,
                 "owner": "paralleldrive",
                 "repo": "cuid2",
-                "stars": 3394
+                "stars": 3396,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
             },
@@ -99,12 +124,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate Easy to Remember, Readable UUIDs, that are Shakespearean and Grammatically Correct Sentences 🥳",
+                "homepage": null,
                 "id": 280972261,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-01-19T05:26:59Z",
+                "open_issues": 4,
                 "owner": "Debdut",
                 "repo": "uuid-readable",
-                "stars": 822
+                "stars": 822,
+                "topics": [
+                  "human-readable",
+                  "id",
+                  "identifier",
+                  "readable",
+                  "shakespeare",
+                  "unique",
+                  "universal",
+                  "uuid",
+                  "uuid-generator",
+                  "uuid-v4",
+                  "uuid-v5"
+                ]
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
             },
@@ -115,12 +157,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Uber-fast unique id generation, for Node.js and the browser",
+                "homepage": null,
                 "id": 66265596,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-17T08:41:12Z",
+                "open_issues": 3,
                 "owner": "mcollina",
                 "repo": "hyperid",
-                "stars": 751
+                "stars": 751,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
             },
@@ -131,12 +178,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tiny (130B to 205B) and fast utility to generate random IDs of fixed length",
+                "homepage": null,
                 "id": 244573944,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-09-27T06:12:32Z",
+                "open_issues": 2,
                 "owner": "lukeed",
                 "repo": "uid",
-                "stars": 667
+                "stars": 667,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
             },
@@ -147,12 +199,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unique ID Generator",
+                "homepage": "https://adamhalasz.com",
                 "id": 22779764,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-06-17T22:28:13Z",
+                "open_issues": 26,
                 "owner": "adamhalasz",
                 "repo": "uniqid",
-                "stars": 610
+                "stars": 610,
+                "topics": [
+                  "generator",
+                  "id",
+                  "uniqid",
+                  "unique"
+                ]
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
             },
@@ -163,12 +225,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate a cryptographically strong random string",
+                "homepage": null,
                 "id": 73665728,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-23T16:45:42Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "crypto-random-string",
-                "stars": 588
+                "stars": 588,
+                "topics": [
+                  "crypto",
+                  "javascript",
+                  "npm-package",
+                  "random",
+                  "random-string",
+                  "random-string-generators"
+                ]
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
             },
@@ -179,12 +253,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node.js implementation of K-Sortable Globally Unique IDs",
+                "homepage": null,
                 "id": 93953668,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2021-10-30T15:31:30Z",
+                "open_issues": 1,
                 "owner": "novemberborn",
                 "repo": "ksuid",
-                "stars": 261
+                "stars": 261,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
             },
@@ -195,12 +276,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flake ID generator yields k-ordered, conflict-free ids in a distributed environment in Node.js",
+                "homepage": "https://www.npmjs.org/package/flake-idgen",
                 "id": 15749731,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-09T05:43:17Z",
+                "open_issues": 5,
                 "owner": "vipermind",
                 "repo": "flake-idgen",
-                "stars": 252
+                "stars": 252,
+                "topics": [
+                  "buffer",
+                  "bytes",
+                  "flake",
+                  "flake-ids",
+                  "identifier",
+                  "javascript",
+                  "maintainer-wanted",
+                  "node-js",
+                  "node-module",
+                  "nodejs",
+                  "unique",
+                  "unique-id",
+                  "unique-identifier",
+                  "uniqueid",
+                  "uniquid"
+                ]
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
             },
@@ -211,12 +313,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💃🆔 Generates human readable identifier strings by chaning common (short) words of the english language.",
+                "homepage": null,
                 "id": 134918163,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-19T04:43:20Z",
+                "open_issues": 2,
                 "owner": "RienNeVaPlus",
                 "repo": "human-id",
-                "stars": 245
+                "stars": 245,
+                "topics": [
+                  "human-id",
+                  "human-readable-id",
+                  "readable-identifier",
+                  "word-generator"
+                ]
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
             },
@@ -227,12 +339,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate an unique ID depending on time, machine and process for use in a distributed environment.",
+                "homepage": "http://pid.github.io/puid/",
                 "id": 8706636,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-01-20T20:30:31Z",
+                "open_issues": 3,
                 "owner": "pid",
                 "repo": "puid",
-                "stars": 239
+                "stars": 239,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
             },
@@ -243,12 +360,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "URL and cookie safe UIDs",
+                "homepage": null,
                 "id": 20955910,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-02-18T02:28:45Z",
+                "open_issues": 0,
                 "owner": "crypto-utils",
                 "repo": "uid-safe",
-                "stars": 142
+                "stars": 142,
+                "topics": [
+                  "javascript",
+                  "nodejs",
+                  "uid"
+                ]
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
             },
@@ -259,12 +385,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tiny but linear growing unique id generator.",
+                "homepage": null,
                 "id": 26240771,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-10T19:29:04Z",
+                "open_issues": 2,
                 "owner": "unshiftio",
                 "repo": "yeast",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
             },
@@ -275,12 +406,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate a unique sequential ID. Optionally pass a prefix, suffix, or multiplier.",
+                "homepage": null,
                 "id": 24016974,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-12-12T07:36:19Z",
+                "open_issues": 0,
                 "owner": "jonschlinkert",
                 "repo": "uniqueid",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
             },
@@ -291,12 +427,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate unique numeric id.",
+                "homepage": null,
                 "id": 29816111,
                 "language": "JavaScript",
+                "license": "Unlicense",
                 "last_commit": "2015-01-25T14:17:31Z",
+                "open_issues": 0,
                 "owner": "dy",
                 "repo": "get-uid",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
             },
@@ -307,12 +448,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🍃 Easily generate human-first IDs",
+                "homepage": null,
                 "id": 813441512,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-13T20:58:54Z",
+                "open_issues": 1,
                 "owner": "tzwel",
                 "repo": "breezeid",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "breezeid",
+                  "generator",
+                  "id",
+                  "ids",
+                  "random",
+                  "unique"
+                ]
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
             },
@@ -323,12 +476,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate a sequence of short strings unique within their scope.",
+                "homepage": null,
                 "id": 439831925,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-01-15T12:37:29Z",
+                "open_issues": 0,
                 "owner": "kayomarz",
                 "repo": "unique-sequence",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
             }
@@ -346,12 +504,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Memborable Unique Identifier",
+                "homepage": null,
                 "id": 244990077,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-09-29T19:51:27Z",
+                "open_issues": 3,
                 "owner": "microprediction",
                 "repo": "muid",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
             }
@@ -369,12 +532,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "K-Sortable Globally Unique IDs",
+                "homepage": "https://segment.com/blog/a-brief-history-of-the-uuid/",
                 "id": 90921999,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-06-25T23:25:15Z",
+                "open_issues": 22,
                 "owner": "segmentio",
                 "repo": "ksuid",
-                "stars": 5266
+                "stars": 5266,
+                "topics": [
+                  "coordination",
+                  "go",
+                  "golang",
+                  "ksuid",
+                  "unique-id",
+                  "uuid"
+                ]
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
             },
@@ -385,12 +560,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "xid is a globally unique id generator thought for the web",
+                "homepage": null,
                 "id": 45938451,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-26T02:22:27Z",
+                "open_issues": 20,
                 "owner": "rs",
                 "repo": "xid",
-                "stars": 4282
+                "stars": 4282,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
             }
@@ -412,12 +592,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RoboHash.org",
+            "homepage": null,
             "id": 2002423,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-21T08:05:11Z",
+            "open_issues": 2,
             "owner": "e1ven",
             "repo": "Robohash",
-            "stars": 1345
+            "stars": 1345,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:54.648Z"
         }
@@ -434,12 +619,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool to debug unique identifiers (UUID, ULID, Snowflake, etc).",
+            "homepage": null,
             "id": 890054634,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-31T13:56:42Z",
+            "open_issues": 0,
             "owner": "Racum",
             "repo": "uuinfo",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "cli",
+              "database",
+              "debug",
+              "identifier",
+              "rust-cli",
+              "snowflake-id",
+              "unique",
+              "unique-identifier",
+              "uuid"
+            ]
           },
           "first_seen": "2026-08-28T15:34:54.648Z"
         }
@@ -448,15 +648,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:34:54.648Z",
+    "last_updated": "2026-08-29T04:44:10.138Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Unique IDs",
+      "homepage": null,
       "id": 100314445,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-03-12T04:28:03Z",
+      "open_issues": 1,
       "owner": "grantcarthew",
       "repo": "awesome-unique-id",
-      "stars": 399
+      "stars": 399,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "hash",
+        "id",
+        "uid",
+        "uniqueid"
+      ]
     },
     "original_repository_sha": "e79fecd2a33f072b2df97f6213befc897d017a26",
     "enhanced_repository": "enhansome/enhansome-unique-id",
