@@ -45,11 +45,11 @@
                 "id": 99401299,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-10T20:13:57Z",
+                "last_commit": "2026-09-01T12:46:44Z",
                 "open_issues": 0,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26957,
+                "stars": 26956,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -70,7 +70,7 @@
                 "open_issues": 0,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15322,
+                "stars": 15321,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -234,7 +234,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "crypto-random-string",
-                "stars": 588,
+                "stars": 589,
                 "topics": [
                   "crypto",
                   "javascript",
@@ -597,7 +597,7 @@
             "id": 2002423,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-07-21T08:05:11Z",
+            "last_commit": "2026-09-01T20:37:33Z",
             "open_issues": 2,
             "owner": "e1ven",
             "repo": "Robohash",
@@ -648,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T08:50:59.521Z",
+    "last_updated": "2026-09-02T08:04:01.300Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unique IDs",
