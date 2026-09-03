@@ -70,7 +70,7 @@
                 "open_issues": 0,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15321,
+                "stars": 15322,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -234,7 +234,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "crypto-random-string",
-                "stars": 589,
+                "stars": 588,
                 "topics": [
                   "crypto",
                   "javascript",
@@ -538,7 +538,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-06-25T23:25:15Z",
-                "open_issues": 22,
+                "open_issues": 21,
                 "owner": "segmentio",
                 "repo": "ksuid",
                 "stars": 5266,
@@ -648,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T08:04:01.300Z",
+    "last_updated": "2026-09-03T08:13:48.594Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unique IDs",
