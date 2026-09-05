@@ -48,8 +48,8 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 
 ### Go
 
-* [ksuid](https://github.com/segmentio/ksuid) ⭐ 5,266 | 🐛 21 | 🌐 Go | 📅 2026-06-25 - K-Sortable Globally Unique IDs.
-* [xid](https://github.com/rs/xid) ⭐ 4,282 | 🐛 20 | 🌐 Go | 📅 2026-08-26 - Xid is a globally unique id generator thought for the web.
+* [ksuid](https://github.com/segmentio/ksuid) ⭐ 5,266 | 🐛 22 | 🌐 Go | 📅 2026-06-25 - K-Sortable Globally Unique IDs.
+* [xid](https://github.com/rs/xid) ⭐ 4,283 | 🐛 21 | 🌐 Go | 📅 2026-08-26 - Xid is a globally unique id generator thought for the web.
 
 ## Hash
 
@@ -103,4 +103,4 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._

@@ -538,7 +538,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-06-25T23:25:15Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "segmentio",
                 "repo": "ksuid",
                 "stars": 5266,
@@ -566,10 +566,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-08-26T02:22:27Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "rs",
                 "repo": "xid",
-                "stars": 4282,
+                "stars": 4283,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -648,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T08:09:47.327Z",
+    "last_updated": "2026-09-05T07:49:10.029Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unique IDs",
