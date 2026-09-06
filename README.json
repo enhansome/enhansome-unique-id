@@ -49,7 +49,7 @@
                 "open_issues": 0,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26962,
+                "stars": 26960,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -112,7 +112,7 @@
                 "open_issues": 9,
                 "owner": "paralleldrive",
                 "repo": "cuid2",
-                "stars": 3398,
+                "stars": 3399,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -133,7 +133,7 @@
                 "open_issues": 4,
                 "owner": "Debdut",
                 "repo": "uuid-readable",
-                "stars": 822,
+                "stars": 821,
                 "topics": [
                   "human-readable",
                   "id",
@@ -648,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T07:49:10.029Z",
+    "last_updated": "2026-09-06T08:03:42.784Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unique IDs",
