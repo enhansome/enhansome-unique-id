@@ -49,7 +49,7 @@
                 "open_issues": 0,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26960,
+                "stars": 26961,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -70,7 +70,7 @@
                 "open_issues": 0,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15329,
+                "stars": 15328,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -565,8 +565,8 @@
                 "id": 45938451,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-26T02:22:27Z",
-                "open_issues": 21,
+                "last_commit": "2026-09-07T22:13:42Z",
+                "open_issues": 18,
                 "owner": "rs",
                 "repo": "xid",
                 "stars": 4282,
@@ -601,7 +601,7 @@
             "open_issues": 2,
             "owner": "e1ven",
             "repo": "Robohash",
-            "stars": 1345,
+            "stars": 1346,
             "topics": []
           },
           "first_seen": "2026-08-28T15:34:54.648Z"
@@ -628,7 +628,7 @@
             "open_issues": 0,
             "owner": "Racum",
             "repo": "uuinfo",
-            "stars": 66,
+            "stars": 65,
             "topics": [
               "cli",
               "database",
@@ -648,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T08:33:56.174Z",
+    "last_updated": "2026-09-08T08:16:37.519Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unique IDs",
