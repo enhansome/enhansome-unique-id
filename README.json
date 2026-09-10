@@ -49,7 +49,7 @@
                 "open_issues": 0,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26964,
+                "stars": 26966,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -70,7 +70,7 @@
                 "open_issues": 0,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15327,
+                "stars": 15325,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -91,7 +91,7 @@
                 "open_issues": 16,
                 "owner": "dylang",
                 "repo": "shortid",
-                "stars": 5712,
+                "stars": 5711,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -208,7 +208,7 @@
                 "open_issues": 26,
                 "owner": "adamhalasz",
                 "repo": "uniqid",
-                "stars": 610,
+                "stars": 609,
                 "topics": [
                   "generator",
                   "id",
@@ -541,7 +541,7 @@
                 "open_issues": 22,
                 "owner": "segmentio",
                 "repo": "ksuid",
-                "stars": 5266,
+                "stars": 5265,
                 "topics": [
                   "coordination",
                   "go",
@@ -569,7 +569,7 @@
                 "open_issues": 18,
                 "owner": "rs",
                 "repo": "xid",
-                "stars": 4283,
+                "stars": 4282,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -601,7 +601,7 @@
             "open_issues": 2,
             "owner": "e1ven",
             "repo": "Robohash",
-            "stars": 1346,
+            "stars": 1347,
             "topics": []
           },
           "first_seen": "2026-08-28T15:34:54.648Z"
@@ -648,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T08:19:36.975Z",
+    "last_updated": "2026-09-10T08:19:46.195Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unique IDs",
