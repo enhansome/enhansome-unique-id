@@ -45,11 +45,11 @@
                 "id": 99401299,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-01T12:46:44Z",
+                "last_commit": "2026-09-10T18:09:44Z",
                 "open_issues": 0,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26966,
+                "stars": 26965,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -66,8 +66,8 @@
                 "id": 1203139,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-18T18:19:21Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-10T21:30:51Z",
+                "open_issues": 1,
                 "owner": "uuidjs",
                 "repo": "uuid",
                 "stars": 15325,
@@ -133,7 +133,7 @@
                 "open_issues": 4,
                 "owner": "Debdut",
                 "repo": "uuid-readable",
-                "stars": 821,
+                "stars": 820,
                 "topics": [
                   "human-readable",
                   "id",
@@ -234,7 +234,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "crypto-random-string",
-                "stars": 589,
+                "stars": 590,
                 "topics": [
                   "crypto",
                   "javascript",
@@ -541,7 +541,7 @@
                 "open_issues": 22,
                 "owner": "segmentio",
                 "repo": "ksuid",
-                "stars": 5265,
+                "stars": 5268,
                 "topics": [
                   "coordination",
                   "go",
@@ -601,7 +601,7 @@
             "open_issues": 2,
             "owner": "e1ven",
             "repo": "Robohash",
-            "stars": 1347,
+            "stars": 1348,
             "topics": []
           },
           "first_seen": "2026-08-28T15:34:54.648Z"
@@ -648,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T08:19:46.195Z",
+    "last_updated": "2026-09-11T08:14:11.403Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unique IDs",
