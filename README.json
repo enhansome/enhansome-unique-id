@@ -49,7 +49,7 @@
                 "open_issues": 0,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26965,
+                "stars": 26964,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -70,7 +70,7 @@
                 "open_issues": 1,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15325,
+                "stars": 15326,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -322,7 +322,7 @@
                 "open_issues": 2,
                 "owner": "RienNeVaPlus",
                 "repo": "human-id",
-                "stars": 245,
+                "stars": 246,
                 "topics": [
                   "human-id",
                   "human-readable-id",
@@ -541,7 +541,7 @@
                 "open_issues": 22,
                 "owner": "segmentio",
                 "repo": "ksuid",
-                "stars": 5268,
+                "stars": 5269,
                 "topics": [
                   "coordination",
                   "go",
@@ -648,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T08:14:11.403Z",
+    "last_updated": "2026-09-12T08:04:42.638Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unique IDs",
