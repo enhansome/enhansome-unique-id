@@ -45,11 +45,11 @@
                 "id": 99401299,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-10T18:09:44Z",
+                "last_commit": "2026-09-14T09:21:14Z",
                 "open_issues": 0,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26968,
+                "stars": 26970,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -67,10 +67,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-10T21:30:51Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15325,
+                "stars": 15327,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -234,7 +234,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "crypto-random-string",
-                "stars": 590,
+                "stars": 591,
                 "topics": [
                   "crypto",
                   "javascript",
@@ -538,7 +538,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-06-25T23:25:15Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "segmentio",
                 "repo": "ksuid",
                 "stars": 5270,
@@ -601,7 +601,7 @@
             "open_issues": 2,
             "owner": "e1ven",
             "repo": "Robohash",
-            "stars": 1348,
+            "stars": 1349,
             "topics": []
           },
           "first_seen": "2026-08-28T15:34:54.648Z"
@@ -648,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T09:11:03.625Z",
+    "last_updated": "2026-09-15T08:53:34.807Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unique IDs",
