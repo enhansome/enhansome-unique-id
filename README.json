@@ -49,7 +49,7 @@
                 "open_issues": 0,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26983,
+                "stars": 26985,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -70,7 +70,7 @@
                 "open_issues": 3,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15332,
+                "stars": 15334,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -234,7 +234,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "crypto-random-string",
-                "stars": 591,
+                "stars": 592,
                 "topics": [
                   "crypto",
                   "javascript",
@@ -541,7 +541,7 @@
                 "open_issues": 23,
                 "owner": "segmentio",
                 "repo": "ksuid",
-                "stars": 5270,
+                "stars": 5271,
                 "topics": [
                   "coordination",
                   "go",
@@ -648,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T08:40:47.115Z",
+    "last_updated": "2026-09-25T09:01:17.862Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unique IDs",
