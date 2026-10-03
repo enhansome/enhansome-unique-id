@@ -70,7 +70,7 @@
                 "open_issues": 3,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15334,
+                "stars": 15335,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -538,7 +538,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-06-25T23:25:15Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "segmentio",
                 "repo": "ksuid",
                 "stars": 5271,
@@ -648,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T09:59:04.717Z",
+    "last_updated": "2026-10-03T05:13:49.661Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unique IDs",
