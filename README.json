@@ -49,7 +49,7 @@
                 "open_issues": 5,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 26993,
+                "stars": 27021,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -70,7 +70,7 @@
                 "open_issues": 3,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15335,
+                "stars": 15336,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -319,7 +319,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-19T04:43:20Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "RienNeVaPlus",
                 "repo": "human-id",
                 "stars": 246,
@@ -569,7 +569,7 @@
                 "open_issues": 18,
                 "owner": "rs",
                 "repo": "xid",
-                "stars": 4282,
+                "stars": 4281,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -648,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T09:21:44.829Z",
+    "last_updated": "2026-10-04T10:00:34.550Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unique IDs",
