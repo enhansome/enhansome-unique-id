@@ -20,8 +20,8 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 
 ### JavaScript
 
-* [nanoid](https://github.com/ai/nanoid) ⭐ 27,021 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-23 ([npm](https://www.npmjs.com/package/nanoid)) - A tiny, secure URL-friendly unique string ID generator for JavaScript.
-* [uuid](https://github.com/uuidjs/node-uuid) ⭐ 15,336 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-15 ([npm](https://www.npmjs.com/package/uuid)) - Simple, fast generation of RFC4122 UUIDS.
+* [nanoid](https://github.com/ai/nanoid) ⭐ 27,068 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-05 ([npm](https://www.npmjs.com/package/nanoid)) - A tiny, secure URL-friendly unique string ID generator for JavaScript.
+* [uuid](https://github.com/uuidjs/node-uuid) ⭐ 15,335 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-15 ([npm](https://www.npmjs.com/package/uuid)) - Simple, fast generation of RFC4122 UUIDS.
 * [shortid](https://github.com/dylang/shortid) ⭐ 5,711 | 🐛 16 | 🌐 JavaScript | 📅 2025-01-23 ([npm](https://www.npmjs.com/package/shortid)) - \[Deprecated] Amazingly short non-sequential url-friendly unique id generator.
 * [cuid2](https://github.com/paralleldrive/cuid2) ⭐ 3,403 | 🐛 9 | 🌐 JavaScript | 📅 2026-08-12 ([npm](https://www.npmjs.com/package/@paralleldrive/cuid2)) - Secure, collision-resistant ids optimized for horizontal scaling and performance. Next generation uuids.
 * [uuid-readable](https://github.com/Debdut/uuid-readable) ⭐ 821 | 🐛 4 | 🌐 TypeScript | 📅 2023-01-19 ([npm](https://www.npmjs.com/package/uuid-readable)) - Generate Easy to Remember, Readable UUIDs, that are Shakespearean and Grammatically Correct Sentences.
@@ -31,7 +31,7 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 * [crypto-random-string](https://github.com/sindresorhus/crypto-random-string) ⭐ 592 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 ([npm](https://www.npmjs.com/package/crypto-random-string)) - Generate a cryptographically strong random string.
 * [ksuid](https://github.com/novemberborn/ksuid) ⭐ 261 | 🐛 1 | 🌐 JavaScript | 📅 2021-10-30 ([npm](https://www.npmjs.com/package/ksuid)) - K-Sortable Globally Unique IDs
 * [flake-idgen](https://github.com/T-PWK/flake-idgen) ⭐ 251 | 🐛 5 | 🌐 JavaScript | 📅 2023-01-09 ([npm](https://www.npmjs.com/package/flake-idgen)) - Flake ID generator yields k-ordered, conflict-free ids in a distributed environment.
-* [human-id](https://github.com/RienNeVaPlus/human-id) ⭐ 246 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-19 ([npm](https://www.npmjs.com/package/human-id)) - Generates human-readable identifier strings by chaining common (short) words of the English language.
+* [human-id](https://github.com/RienNeVaPlus/human-id) ⭐ 246 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-04 ([npm](https://www.npmjs.com/package/human-id)) - Generates human-readable identifier strings by chaining common (short) words of the English language.
 * [puid](https://github.com/pid/puid) ⭐ 239 | 🐛 3 | 🌐 JavaScript | 📅 2021-01-20 ([npm](https://www.npmjs.com/package/puid)) - Generate a unique ID depending on time, machine and process for use in a distributed environment.
 * [uid-safe](https://github.com/crypto-utils/uid-safe) ⭐ 142 | 🐛 0 | 🌐 JavaScript | 📅 2021-02-18 ([npm](https://www.npmjs.com/package/uid-safe)) - URL and cookie safe UIDs.
 * [yeast](https://github.com/unshiftio/yeast) ⭐ 45 | 🐛 2 | 🌐 JavaScript | 📅 2023-01-10 ([npm](https://www.npmjs.com/package/yeast)) - Yeast is a unique id generator.
@@ -48,12 +48,12 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 
 ### Go
 
-* [ksuid](https://github.com/segmentio/ksuid) ⭐ 5,271 | 🐛 24 | 🌐 Go | 📅 2026-06-25 - K-Sortable Globally Unique IDs.
+* [ksuid](https://github.com/segmentio/ksuid) ⭐ 5,272 | 🐛 24 | 🌐 Go | 📅 2026-06-25 - K-Sortable Globally Unique IDs.
 * [xid](https://github.com/rs/xid) ⭐ 4,281 | 🐛 18 | 🌐 Go | 📅 2026-09-12 - Xid is a globally unique id generator thought for the web.
 
 ## Hash
 
-* [RoboHash](https://robohash.org/) ([GitHub](https://github.com/e1ven/Robohash) ⭐ 1,354 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-01) - Generate unique images from any text.
+* [RoboHash](https://robohash.org/) ([GitHub](https://github.com/e1ven/Robohash) ⭐ 1,355 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-01) - Generate unique images from any text.
 
 ## CLI Tools
 
@@ -103,4 +103,4 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
