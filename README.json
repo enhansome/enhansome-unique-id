@@ -67,7 +67,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-15T13:08:02Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "uuidjs",
                 "repo": "uuid",
                 "stars": 15337,
@@ -112,7 +112,7 @@
                 "open_issues": 9,
                 "owner": "paralleldrive",
                 "repo": "cuid2",
-                "stars": 3403,
+                "stars": 3405,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -569,7 +569,7 @@
                 "open_issues": 18,
                 "owner": "rs",
                 "repo": "xid",
-                "stars": 4281,
+                "stars": 4282,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -601,7 +601,7 @@
             "open_issues": 2,
             "owner": "e1ven",
             "repo": "Robohash",
-            "stars": 1355,
+            "stars": 1356,
             "topics": []
           },
           "first_seen": "2026-08-28T15:34:54.648Z"
@@ -648,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T10:29:45.947Z",
+    "last_updated": "2026-10-08T10:50:45.672Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unique IDs",
