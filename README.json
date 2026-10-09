@@ -49,7 +49,7 @@
                 "open_issues": 2,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 27099,
+                "stars": 27096,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -66,11 +66,11 @@
                 "id": 1203139,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-15T13:08:02Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-08T22:34:40Z",
+                "open_issues": 6,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15337,
+                "stars": 15338,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -91,7 +91,7 @@
                 "open_issues": 16,
                 "owner": "dylang",
                 "repo": "shortid",
-                "stars": 5711,
+                "stars": 5710,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -184,7 +184,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2024-09-27T06:12:32Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "lukeed",
                 "repo": "uid",
                 "stars": 668,
@@ -538,10 +538,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-06-25T23:25:15Z",
-                "open_issues": 24,
+                "open_issues": 25,
                 "owner": "segmentio",
                 "repo": "ksuid",
-                "stars": 5273,
+                "stars": 5272,
                 "topics": [
                   "coordination",
                   "go",
@@ -569,7 +569,7 @@
                 "open_issues": 18,
                 "owner": "rs",
                 "repo": "xid",
-                "stars": 4282,
+                "stars": 4280,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -601,7 +601,7 @@
             "open_issues": 2,
             "owner": "e1ven",
             "repo": "Robohash",
-            "stars": 1356,
+            "stars": 1357,
             "topics": []
           },
           "first_seen": "2026-08-28T15:34:54.648Z"
@@ -648,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T10:50:45.672Z",
+    "last_updated": "2026-10-09T10:49:23.515Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unique IDs",
@@ -660,7 +660,7 @@
       "open_issues": 1,
       "owner": "grantcarthew",
       "repo": "awesome-unique-id",
-      "stars": 400,
+      "stars": 401,
       "topics": [
         "awesome",
         "awesome-list",
