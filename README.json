@@ -45,11 +45,11 @@
                 "id": 99401299,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-05T21:16:46Z",
+                "last_commit": "2026-10-10T06:31:43Z",
                 "open_issues": 2,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 27096,
+                "stars": 27095,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -66,11 +66,11 @@
                 "id": 1203139,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-08T22:34:40Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-10T00:28:50Z",
+                "open_issues": 5,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15338,
+                "stars": 15336,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -112,7 +112,7 @@
                 "open_issues": 9,
                 "owner": "paralleldrive",
                 "repo": "cuid2",
-                "stars": 3405,
+                "stars": 3404,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -234,7 +234,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "crypto-random-string",
-                "stars": 592,
+                "stars": 591,
                 "topics": [
                   "crypto",
                   "javascript",
@@ -566,10 +566,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-09-12T18:27:27Z",
-                "open_issues": 18,
+                "open_issues": 20,
                 "owner": "rs",
                 "repo": "xid",
-                "stars": 4280,
+                "stars": 4279,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -648,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T10:49:23.515Z",
+    "last_updated": "2026-10-10T10:04:04.535Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unique IDs",
