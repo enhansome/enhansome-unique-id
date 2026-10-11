@@ -45,7 +45,7 @@
                 "id": 99401299,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-10T06:31:43Z",
+                "last_commit": "2026-10-10T15:34:37Z",
                 "open_issues": 2,
                 "owner": "ai",
                 "repo": "nanoid",
@@ -67,10 +67,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-10T00:28:50Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15336,
+                "stars": 15337,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -133,7 +133,7 @@
                 "open_issues": 4,
                 "owner": "Debdut",
                 "repo": "uuid-readable",
-                "stars": 821,
+                "stars": 820,
                 "topics": [
                   "human-readable",
                   "id",
@@ -648,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T10:04:04.535Z",
+    "last_updated": "2026-10-11T10:14:31.917Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unique IDs",
