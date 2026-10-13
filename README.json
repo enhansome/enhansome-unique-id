@@ -91,7 +91,7 @@
                 "open_issues": 16,
                 "owner": "dylang",
                 "repo": "shortid",
-                "stars": 5710,
+                "stars": 5709,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -112,7 +112,7 @@
                 "open_issues": 9,
                 "owner": "paralleldrive",
                 "repo": "cuid2",
-                "stars": 3404,
+                "stars": 3405,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -133,7 +133,7 @@
                 "open_issues": 4,
                 "owner": "Debdut",
                 "repo": "uuid-readable",
-                "stars": 820,
+                "stars": 821,
                 "topics": [
                   "human-readable",
                   "id",
@@ -166,7 +166,7 @@
                 "open_issues": 3,
                 "owner": "mcollina",
                 "repo": "hyperid",
-                "stars": 752,
+                "stars": 751,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -569,7 +569,7 @@
                 "open_issues": 20,
                 "owner": "rs",
                 "repo": "xid",
-                "stars": 4279,
+                "stars": 4280,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -648,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T11:13:35.345Z",
+    "last_updated": "2026-10-13T10:55:02.552Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unique IDs",
