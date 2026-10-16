@@ -46,10 +46,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-10T15:34:37Z",
-                "open_issues": 2,
+                "open_issues": 4,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 27103,
+                "stars": 27104,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -67,10 +67,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-13T13:01:32Z",
-                "open_issues": 5,
+                "open_issues": 7,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15338,
+                "stars": 15340,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -285,7 +285,7 @@
                 "open_issues": 5,
                 "owner": "vipermind",
                 "repo": "flake-idgen",
-                "stars": 251,
+                "stars": 250,
                 "topics": [
                   "buffer",
                   "bytes",
@@ -322,7 +322,7 @@
                 "open_issues": 2,
                 "owner": "RienNeVaPlus",
                 "repo": "human-id",
-                "stars": 247,
+                "stars": 245,
                 "topics": [
                   "human-id",
                   "human-readable-id",
@@ -541,7 +541,7 @@
                 "open_issues": 25,
                 "owner": "segmentio",
                 "repo": "ksuid",
-                "stars": 5274,
+                "stars": 5273,
                 "topics": [
                   "coordination",
                   "go",
@@ -628,7 +628,7 @@
             "open_issues": 0,
             "owner": "Racum",
             "repo": "uuinfo",
-            "stars": 65,
+            "stars": 66,
             "topics": [
               "cli",
               "database",
@@ -648,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T08:31:15.049Z",
+    "last_updated": "2026-10-16T08:25:30.525Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unique IDs",
