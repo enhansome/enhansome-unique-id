@@ -70,7 +70,7 @@
                 "open_issues": 7,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15341,
+                "stars": 15342,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -569,7 +569,7 @@
                 "open_issues": 21,
                 "owner": "rs",
                 "repo": "xid",
-                "stars": 4279,
+                "stars": 4280,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -648,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T08:48:19.234Z",
+    "last_updated": "2026-10-22T08:50:34.024Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unique IDs",
