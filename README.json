@@ -46,10 +46,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-16T13:01:49Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 27109,
+                "stars": 27111,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -70,7 +70,7 @@
                 "open_issues": 7,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15341,
+                "stars": 15342,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -112,7 +112,7 @@
                 "open_issues": 9,
                 "owner": "paralleldrive",
                 "repo": "cuid2",
-                "stars": 3406,
+                "stars": 3407,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -648,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T08:46:03.340Z",
+    "last_updated": "2026-10-24T08:20:25.618Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unique IDs",
