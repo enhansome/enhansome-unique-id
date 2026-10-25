@@ -49,7 +49,7 @@
                 "open_issues": 3,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 27111,
+                "stars": 27112,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -70,7 +70,7 @@
                 "open_issues": 7,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15342,
+                "stars": 15344,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -91,7 +91,7 @@
                 "open_issues": 16,
                 "owner": "dylang",
                 "repo": "shortid",
-                "stars": 5711,
+                "stars": 5712,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -112,7 +112,7 @@
                 "open_issues": 9,
                 "owner": "paralleldrive",
                 "repo": "cuid2",
-                "stars": 3407,
+                "stars": 3410,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -648,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T08:20:25.618Z",
+    "last_updated": "2026-10-25T08:38:50.889Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unique IDs",
