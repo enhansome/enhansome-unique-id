@@ -20,7 +20,7 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 
 ### JavaScript
 
-* [nanoid](https://github.com/ai/nanoid) ⭐ 27,116 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-16 ([npm](https://www.npmjs.com/package/nanoid)) - A tiny, secure URL-friendly unique string ID generator for JavaScript.
+* [nanoid](https://github.com/ai/nanoid) ⭐ 27,118 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-16 ([npm](https://www.npmjs.com/package/nanoid)) - A tiny, secure URL-friendly unique string ID generator for JavaScript.
 * [uuid](https://github.com/uuidjs/node-uuid) ⭐ 15,345 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-23 ([npm](https://www.npmjs.com/package/uuid)) - Simple, fast generation of RFC4122 UUIDS.
 * [shortid](https://github.com/dylang/shortid) ⭐ 5,709 | 🐛 16 | 🌐 JavaScript | 📅 2025-01-23 ([npm](https://www.npmjs.com/package/shortid)) - \[Deprecated] Amazingly short non-sequential url-friendly unique id generator.
 * [cuid2](https://github.com/paralleldrive/cuid2) ⭐ 3,413 | 🐛 9 | 🌐 JavaScript | 📅 2026-08-12 ([npm](https://www.npmjs.com/package/@paralleldrive/cuid2)) - Secure, collision-resistant ids optimized for horizontal scaling and performance. Next generation uuids.
@@ -48,7 +48,7 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 
 ### Go
 
-* [ksuid](https://github.com/segmentio/ksuid) ⭐ 5,271 | 🐛 26 | 🌐 Go | 📅 2026-06-25 - K-Sortable Globally Unique IDs.
+* [ksuid](https://github.com/segmentio/ksuid) ⭐ 5,271 | 🐛 27 | 🌐 Go | 📅 2026-06-25 - K-Sortable Globally Unique IDs.
 * [xid](https://github.com/rs/xid) ⭐ 4,279 | 🐛 21 | 🌐 Go | 📅 2026-09-12 - Xid is a globally unique id generator thought for the web.
 
 ## Hash
@@ -103,4 +103,4 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
