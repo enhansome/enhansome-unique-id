@@ -49,7 +49,7 @@
                 "open_issues": 2,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 27119,
+                "stars": 27121,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -91,7 +91,7 @@
                 "open_issues": 16,
                 "owner": "dylang",
                 "repo": "shortid",
-                "stars": 5708,
+                "stars": 5707,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -112,7 +112,7 @@
                 "open_issues": 9,
                 "owner": "paralleldrive",
                 "repo": "cuid2",
-                "stars": 3413,
+                "stars": 3412,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -507,10 +507,10 @@
                 "description": "Memborable Unique Identifier",
                 "homepage": null,
                 "id": 244990077,
-                "language": "Python",
+                "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-11-03T04:49:13Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-04T07:57:11Z",
+                "open_issues": 9,
                 "owner": "microprediction",
                 "repo": "muid",
                 "stars": 13,
@@ -538,7 +538,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-06-25T23:25:15Z",
-                "open_issues": 28,
+                "open_issues": 29,
                 "owner": "segmentio",
                 "repo": "ksuid",
                 "stars": 5271,
@@ -601,7 +601,7 @@
             "open_issues": 2,
             "owner": "e1ven",
             "repo": "Robohash",
-            "stars": 1358,
+            "stars": 1357,
             "topics": []
           },
           "first_seen": "2026-08-28T15:34:54.648Z"
@@ -648,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T11:12:48.471Z",
+    "last_updated": "2026-11-04T11:24:34.422Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unique IDs",
