@@ -49,7 +49,7 @@
                 "open_issues": 1,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 27123,
+                "stars": 27125,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -234,7 +234,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "crypto-random-string",
-                "stars": 592,
+                "stars": 593,
                 "topics": [
                   "crypto",
                   "javascript",
@@ -509,8 +509,8 @@
                 "id": 244990077,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-11-07T10:27:50Z",
-                "open_issues": 23,
+                "last_commit": "2026-11-08T06:56:21Z",
+                "open_issues": 10,
                 "owner": "microprediction",
                 "repo": "muid",
                 "stars": 13,
@@ -648,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T10:35:14.351Z",
+    "last_updated": "2026-11-08T10:40:24.109Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unique IDs",

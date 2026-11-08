@@ -20,7 +20,7 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 
 ### JavaScript
 
-* [nanoid](https://github.com/ai/nanoid) ⭐ 27,123 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-05 ([npm](https://www.npmjs.com/package/nanoid)) - A tiny, secure URL-friendly unique string ID generator for JavaScript.
+* [nanoid](https://github.com/ai/nanoid) ⭐ 27,125 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-05 ([npm](https://www.npmjs.com/package/nanoid)) - A tiny, secure URL-friendly unique string ID generator for JavaScript.
 * [uuid](https://github.com/uuidjs/node-uuid) ⭐ 15,345 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-01 ([npm](https://www.npmjs.com/package/uuid)) - Simple, fast generation of RFC4122 UUIDS.
 * [shortid](https://github.com/dylang/shortid) ⭐ 5,707 | 🐛 16 | 🌐 JavaScript | 📅 2025-01-23 ([npm](https://www.npmjs.com/package/shortid)) - \[Deprecated] Amazingly short non-sequential url-friendly unique id generator.
 * [cuid2](https://github.com/paralleldrive/cuid2) ⭐ 3,409 | 🐛 9 | 🌐 JavaScript | 📅 2026-08-12 ([npm](https://www.npmjs.com/package/@paralleldrive/cuid2)) - Secure, collision-resistant ids optimized for horizontal scaling and performance. Next generation uuids.
@@ -28,7 +28,7 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 * [hyperid](https://github.com/mcollina/hyperid) ⭐ 752 | 🐛 3 | 🌐 JavaScript | 📅 2026-07-17 ([npm](https://www.npmjs.com/package/hyperid)) - Uber-fast unique id generation, for Node.js and the browser.
 * [uid](https://github.com/lukeed/uid) ⭐ 665 | 🐛 3 | 🌐 JavaScript | 📅 2024-09-27 ([npm](https://www.npmjs.com/package/uid)) - Generate unique ids of any length.
 * [uniqid](https://github.com/adamhalasz/uniqid) ⭐ 612 | 🐛 26 | 🌐 JavaScript | 📅 2023-06-17 ([npm](https://www.npmjs.com/package/uniqid)) - A Unique Hexatridecimal ID generator.
-* [crypto-random-string](https://github.com/sindresorhus/crypto-random-string) ⭐ 592 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 ([npm](https://www.npmjs.com/package/crypto-random-string)) - Generate a cryptographically strong random string.
+* [crypto-random-string](https://github.com/sindresorhus/crypto-random-string) ⭐ 593 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 ([npm](https://www.npmjs.com/package/crypto-random-string)) - Generate a cryptographically strong random string.
 * [ksuid](https://github.com/novemberborn/ksuid) ⭐ 261 | 🐛 1 | 🌐 JavaScript | 📅 2021-10-30 ([npm](https://www.npmjs.com/package/ksuid)) - K-Sortable Globally Unique IDs
 * [flake-idgen](https://github.com/T-PWK/flake-idgen) ⭐ 250 | 🐛 5 | 🌐 JavaScript | 📅 2023-01-09 ([npm](https://www.npmjs.com/package/flake-idgen)) - Flake ID generator yields k-ordered, conflict-free ids in a distributed environment.
 * [human-id](https://github.com/RienNeVaPlus/human-id) ⭐ 246 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-04 ([npm](https://www.npmjs.com/package/human-id)) - Generates human-readable identifier strings by chaining common (short) words of the English language.
@@ -44,7 +44,7 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 
 ### Python
 
-* [muid](https://github.com/microprediction/muid) ⭐ 13 | 🐛 23 | 🌐 JavaScript | 📅 2026-11-07 ([PyPI](https://pypi.org/project/muid/)) - Generates IDs whose hashes are, in part, memorable.
+* [muid](https://github.com/microprediction/muid) ⭐ 13 | 🐛 10 | 🌐 JavaScript | 📅 2026-11-08 ([PyPI](https://pypi.org/project/muid/)) - Generates IDs whose hashes are, in part, memorable.
 
 ### Go
 
@@ -103,4 +103,4 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
