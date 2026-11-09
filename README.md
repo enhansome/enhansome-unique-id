@@ -20,7 +20,7 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 
 ### JavaScript
 
-* [nanoid](https://github.com/ai/nanoid) ⭐ 27,125 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-05 ([npm](https://www.npmjs.com/package/nanoid)) - A tiny, secure URL-friendly unique string ID generator for JavaScript.
+* [nanoid](https://github.com/ai/nanoid) ⭐ 27,128 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-05 ([npm](https://www.npmjs.com/package/nanoid)) - A tiny, secure URL-friendly unique string ID generator for JavaScript.
 * [uuid](https://github.com/uuidjs/node-uuid) ⭐ 15,345 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-01 ([npm](https://www.npmjs.com/package/uuid)) - Simple, fast generation of RFC4122 UUIDS.
 * [shortid](https://github.com/dylang/shortid) ⭐ 5,707 | 🐛 16 | 🌐 JavaScript | 📅 2025-01-23 ([npm](https://www.npmjs.com/package/shortid)) - \[Deprecated] Amazingly short non-sequential url-friendly unique id generator.
 * [cuid2](https://github.com/paralleldrive/cuid2) ⭐ 3,409 | 🐛 9 | 🌐 JavaScript | 📅 2026-08-12 ([npm](https://www.npmjs.com/package/@paralleldrive/cuid2)) - Secure, collision-resistant ids optimized for horizontal scaling and performance. Next generation uuids.
@@ -44,7 +44,7 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 
 ### Python
 
-* [muid](https://github.com/microprediction/muid) ⭐ 13 | 🐛 10 | 🌐 JavaScript | 📅 2026-11-08 ([PyPI](https://pypi.org/project/muid/)) - Generates IDs whose hashes are, in part, memorable.
+* [muid](https://github.com/microprediction/muid) ⭐ 13 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-09 ([PyPI](https://pypi.org/project/muid/)) - Generates IDs whose hashes are, in part, memorable.
 
 ### Go
 
@@ -103,4 +103,4 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
