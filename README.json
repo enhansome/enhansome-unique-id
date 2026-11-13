@@ -49,7 +49,7 @@
                 "open_issues": 2,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 27132,
+                "stars": 27129,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -67,7 +67,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-01T16:11:41Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "uuidjs",
                 "repo": "uuid",
                 "stars": 15346,
@@ -285,7 +285,7 @@
                 "open_issues": 5,
                 "owner": "vipermind",
                 "repo": "flake-idgen",
-                "stars": 250,
+                "stars": 249,
                 "topics": [
                   "buffer",
                   "bytes",
@@ -509,7 +509,7 @@
                 "id": 244990077,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-11-12T08:35:24Z",
+                "last_commit": "2026-11-13T06:45:14Z",
                 "open_issues": 7,
                 "owner": "microprediction",
                 "repo": "muid",
@@ -566,10 +566,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-09-12T18:27:27Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "rs",
                 "repo": "xid",
-                "stars": 4280,
+                "stars": 4281,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -648,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T11:40:31.883Z",
+    "last_updated": "2026-11-13T11:24:05.231Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unique IDs",
