@@ -46,10 +46,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-11-05T20:34:00Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 27130,
+                "stars": 27132,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -163,7 +163,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-07-17T08:41:12Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "mcollina",
                 "repo": "hyperid",
                 "stars": 754,
@@ -509,8 +509,8 @@
                 "id": 244990077,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-11-14T14:46:57Z",
-                "open_issues": 12,
+                "last_commit": "2026-11-16T11:10:47Z",
+                "open_issues": 9,
                 "owner": "microprediction",
                 "repo": "muid",
                 "stars": 13,
@@ -648,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T11:22:18.391Z",
+    "last_updated": "2026-11-16T11:54:27.391Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unique IDs",
