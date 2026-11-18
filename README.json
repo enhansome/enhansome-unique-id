@@ -46,10 +46,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-11-05T20:34:00Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 27134,
+                "stars": 27136,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -70,7 +70,7 @@
                 "open_issues": 9,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15346,
+                "stars": 15345,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -91,7 +91,7 @@
                 "open_issues": 16,
                 "owner": "dylang",
                 "repo": "shortid",
-                "stars": 5708,
+                "stars": 5707,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -112,7 +112,7 @@
                 "open_issues": 9,
                 "owner": "paralleldrive",
                 "repo": "cuid2",
-                "stars": 3409,
+                "stars": 3410,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -509,8 +509,8 @@
                 "id": 244990077,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-11-17T10:28:47Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-18T10:22:31Z",
+                "open_issues": 8,
                 "owner": "microprediction",
                 "repo": "muid",
                 "stars": 13,
@@ -538,7 +538,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-06-25T23:25:15Z",
-                "open_issues": 29,
+                "open_issues": 30,
                 "owner": "segmentio",
                 "repo": "ksuid",
                 "stars": 5271,
@@ -648,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T12:18:19.368Z",
+    "last_updated": "2026-11-18T12:04:05.982Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unique IDs",
