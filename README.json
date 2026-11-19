@@ -49,7 +49,7 @@
                 "open_issues": 1,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 27136,
+                "stars": 27140,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -67,7 +67,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-01T16:11:41Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "uuidjs",
                 "repo": "uuid",
                 "stars": 15345,
@@ -509,8 +509,8 @@
                 "id": 244990077,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-11-18T10:22:31Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-19T05:15:46Z",
+                "open_issues": 12,
                 "owner": "microprediction",
                 "repo": "muid",
                 "stars": 13,
@@ -541,7 +541,7 @@
                 "open_issues": 30,
                 "owner": "segmentio",
                 "repo": "ksuid",
-                "stars": 5271,
+                "stars": 5272,
                 "topics": [
                   "coordination",
                   "go",
@@ -648,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T12:04:05.982Z",
+    "last_updated": "2026-11-19T11:59:24.642Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unique IDs",
