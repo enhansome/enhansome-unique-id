@@ -20,14 +20,14 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 
 ### JavaScript
 
-* [nanoid](https://github.com/ai/nanoid) ⭐ 27,140 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-05 ([npm](https://www.npmjs.com/package/nanoid)) - A tiny, secure URL-friendly unique string ID generator for JavaScript.
-* [uuid](https://github.com/uuidjs/node-uuid) ⭐ 15,345 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-01 ([npm](https://www.npmjs.com/package/uuid)) - Simple, fast generation of RFC4122 UUIDS.
-* [shortid](https://github.com/dylang/shortid) ⭐ 5,707 | 🐛 16 | 🌐 JavaScript | 📅 2025-01-23 ([npm](https://www.npmjs.com/package/shortid)) - \[Deprecated] Amazingly short non-sequential url-friendly unique id generator.
-* [cuid2](https://github.com/paralleldrive/cuid2) ⭐ 3,410 | 🐛 9 | 🌐 JavaScript | 📅 2026-08-12 ([npm](https://www.npmjs.com/package/@paralleldrive/cuid2)) - Secure, collision-resistant ids optimized for horizontal scaling and performance. Next generation uuids.
-* [uuid-readable](https://github.com/Debdut/uuid-readable) ⭐ 823 | 🐛 4 | 🌐 TypeScript | 📅 2023-01-19 ([npm](https://www.npmjs.com/package/uuid-readable)) - Generate Easy to Remember, Readable UUIDs, that are Shakespearean and Grammatically Correct Sentences.
-* [hyperid](https://github.com/mcollina/hyperid) ⭐ 754 | 🐛 4 | 🌐 JavaScript | 📅 2026-07-17 ([npm](https://www.npmjs.com/package/hyperid)) - Uber-fast unique id generation, for Node.js and the browser.
+* [nanoid](https://github.com/ai/nanoid) ⭐ 27,139 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-05 ([npm](https://www.npmjs.com/package/nanoid)) - A tiny, secure URL-friendly unique string ID generator for JavaScript.
+* [uuid](https://github.com/uuidjs/node-uuid) ⭐ 15,343 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-01 ([npm](https://www.npmjs.com/package/uuid)) - Simple, fast generation of RFC4122 UUIDS.
+* [shortid](https://github.com/dylang/shortid) ⭐ 5,706 | 🐛 16 | 🌐 JavaScript | 📅 2025-01-23 ([npm](https://www.npmjs.com/package/shortid)) - \[Deprecated] Amazingly short non-sequential url-friendly unique id generator.
+* [cuid2](https://github.com/paralleldrive/cuid2) ⭐ 3,409 | 🐛 9 | 🌐 JavaScript | 📅 2026-11-20 ([npm](https://www.npmjs.com/package/@paralleldrive/cuid2)) - Secure, collision-resistant ids optimized for horizontal scaling and performance. Next generation uuids.
+* [uuid-readable](https://github.com/Debdut/uuid-readable) ⭐ 822 | 🐛 4 | 🌐 TypeScript | 📅 2023-01-19 ([npm](https://www.npmjs.com/package/uuid-readable)) - Generate Easy to Remember, Readable UUIDs, that are Shakespearean and Grammatically Correct Sentences.
+* [hyperid](https://github.com/mcollina/hyperid) ⭐ 753 | 🐛 4 | 🌐 JavaScript | 📅 2026-07-17 ([npm](https://www.npmjs.com/package/hyperid)) - Uber-fast unique id generation, for Node.js and the browser.
 * [uid](https://github.com/lukeed/uid) ⭐ 665 | 🐛 3 | 🌐 JavaScript | 📅 2024-09-27 ([npm](https://www.npmjs.com/package/uid)) - Generate unique ids of any length.
-* [uniqid](https://github.com/adamhalasz/uniqid) ⭐ 613 | 🐛 26 | 🌐 JavaScript | 📅 2023-06-17 ([npm](https://www.npmjs.com/package/uniqid)) - A Unique Hexatridecimal ID generator.
+* [uniqid](https://github.com/adamhalasz/uniqid) ⭐ 612 | 🐛 26 | 🌐 JavaScript | 📅 2023-06-17 ([npm](https://www.npmjs.com/package/uniqid)) - A Unique Hexatridecimal ID generator.
 * [crypto-random-string](https://github.com/sindresorhus/crypto-random-string) ⭐ 594 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 ([npm](https://www.npmjs.com/package/crypto-random-string)) - Generate a cryptographically strong random string.
 * [ksuid](https://github.com/novemberborn/ksuid) ⭐ 261 | 🐛 1 | 🌐 JavaScript | 📅 2021-10-30 ([npm](https://www.npmjs.com/package/ksuid)) - K-Sortable Globally Unique IDs
 * [flake-idgen](https://github.com/T-PWK/flake-idgen) ⭐ 248 | 🐛 5 | 🌐 JavaScript | 📅 2023-01-09 ([npm](https://www.npmjs.com/package/flake-idgen)) - Flake ID generator yields k-ordered, conflict-free ids in a distributed environment.
@@ -44,20 +44,20 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 
 ### Python
 
-* [muid](https://github.com/microprediction/muid) ⭐ 13 | 🐛 12 | 🌐 JavaScript | 📅 2026-11-19 ([PyPI](https://pypi.org/project/muid/)) - Generates IDs whose hashes are, in part, memorable.
+* [muid](https://github.com/microprediction/muid) ⭐ 13 | 🐛 15 | 🌐 JavaScript | 📅 2026-11-19 ([PyPI](https://pypi.org/project/muid/)) - Generates IDs whose hashes are, in part, memorable.
 
 ### Go
 
-* [ksuid](https://github.com/segmentio/ksuid) ⭐ 5,272 | 🐛 30 | 🌐 Go | 📅 2026-06-25 - K-Sortable Globally Unique IDs.
-* [xid](https://github.com/rs/xid) ⭐ 4,281 | 🐛 21 | 🌐 Go | 📅 2026-09-12 - Xid is a globally unique id generator thought for the web.
+* [ksuid](https://github.com/segmentio/ksuid) ⭐ 5,271 | 🐛 30 | 🌐 Go | 📅 2026-06-25 - K-Sortable Globally Unique IDs.
+* [xid](https://github.com/rs/xid) ⭐ 4,280 | 🐛 21 | 🌐 Go | 📅 2026-09-12 - Xid is a globally unique id generator thought for the web.
 
 ## Hash
 
-* [RoboHash](https://robohash.org/) ([GitHub](https://github.com/e1ven/Robohash) ⭐ 1,359 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-01) - Generate unique images from any text.
+* [RoboHash](https://robohash.org/) ([GitHub](https://github.com/e1ven/Robohash) ⭐ 1,358 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-01) - Generate unique images from any text.
 
 ## CLI Tools
 
-* [uuinfo](https://github.com/racum/uuinfo) ⭐ 66 | 🐛 0 | 🌐 Rust | 📅 2026-05-31 - A tool to debug unique identifiers (UUID, ULID, Snowflake, etc).
+* [uuinfo](https://github.com/racum/uuinfo) ⭐ 66 | 🐛 0 | 🌐 Rust | 📅 2026-11-19 - A tool to debug unique identifiers (UUID, ULID, Snowflake, etc).
 * [OSSP uuid](http://www.ossp.org/pkg/lib/uuid/) - ISO-C API and CLI for generating UUIDs
 
 ## Research
@@ -103,4 +103,4 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
