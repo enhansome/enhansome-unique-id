@@ -133,7 +133,7 @@
                 "open_issues": 4,
                 "owner": "Debdut",
                 "repo": "uuid-readable",
-                "stars": 822,
+                "stars": 823,
                 "topics": [
                   "human-readable",
                   "id",
@@ -509,8 +509,8 @@
                 "id": 244990077,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-11-19T12:38:27Z",
-                "open_issues": 15,
+                "last_commit": "2026-11-21T09:23:30Z",
+                "open_issues": 6,
                 "owner": "microprediction",
                 "repo": "muid",
                 "stars": 13,
@@ -569,7 +569,7 @@
                 "open_issues": 21,
                 "owner": "rs",
                 "repo": "xid",
-                "stars": 4280,
+                "stars": 4279,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -648,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T12:00:34.683Z",
+    "last_updated": "2026-11-21T11:35:26.106Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unique IDs",
