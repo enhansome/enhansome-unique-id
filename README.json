@@ -49,7 +49,7 @@
                 "open_issues": 1,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 27140,
+                "stars": 27141,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -70,7 +70,7 @@
                 "open_issues": 10,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15346,
+                "stars": 15345,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -91,7 +91,7 @@
                 "open_issues": 16,
                 "owner": "dylang",
                 "repo": "shortid",
-                "stars": 5705,
+                "stars": 5704,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -112,7 +112,7 @@
                 "open_issues": 9,
                 "owner": "paralleldrive",
                 "repo": "cuid2",
-                "stars": 3408,
+                "stars": 3407,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -322,7 +322,7 @@
                 "open_issues": 2,
                 "owner": "RienNeVaPlus",
                 "repo": "human-id",
-                "stars": 246,
+                "stars": 245,
                 "topics": [
                   "human-id",
                   "human-readable-id",
@@ -509,8 +509,8 @@
                 "id": 244990077,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-11-23T12:54:36Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-24T09:35:01Z",
+                "open_issues": 0,
                 "owner": "microprediction",
                 "repo": "muid",
                 "stars": 13,
@@ -569,7 +569,7 @@
                 "open_issues": 21,
                 "owner": "rs",
                 "repo": "xid",
-                "stars": 4279,
+                "stars": 4280,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -648,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T13:29:26.365Z",
+    "last_updated": "2026-11-24T14:07:39.760Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unique IDs",
