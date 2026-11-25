@@ -49,7 +49,7 @@
                 "open_issues": 1,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 27141,
+                "stars": 27142,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -510,7 +510,7 @@
                 "language": "JavaScript",
                 "license": null,
                 "last_commit": "2026-11-24T09:35:01Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "microprediction",
                 "repo": "muid",
                 "stars": 13,
@@ -538,7 +538,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-06-25T23:25:15Z",
-                "open_issues": 30,
+                "open_issues": 29,
                 "owner": "segmentio",
                 "repo": "ksuid",
                 "stars": 5271,
@@ -648,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T14:07:39.760Z",
+    "last_updated": "2026-11-25T13:20:30.812Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unique IDs",
