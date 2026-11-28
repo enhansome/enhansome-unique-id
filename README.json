@@ -46,10 +46,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-11-25T15:04:12Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "ai",
                 "repo": "nanoid",
-                "stars": 27148,
+                "stars": 27149,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -70,7 +70,7 @@
                 "open_issues": 10,
                 "owner": "uuidjs",
                 "repo": "uuid",
-                "stars": 15348,
+                "stars": 15350,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -112,7 +112,7 @@
                 "open_issues": 9,
                 "owner": "paralleldrive",
                 "repo": "cuid2",
-                "stars": 3407,
+                "stars": 3408,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -187,7 +187,7 @@
                 "open_issues": 3,
                 "owner": "lukeed",
                 "repo": "uid",
-                "stars": 664,
+                "stars": 665,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:34:54.648Z"
@@ -509,7 +509,7 @@
                 "id": 244990077,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-11-27T04:40:47Z",
+                "last_commit": "2026-11-27T21:49:45Z",
                 "open_issues": 2,
                 "owner": "microprediction",
                 "repo": "muid",
@@ -648,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T12:57:34.435Z",
+    "last_updated": "2026-11-28T12:09:46.827Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Unique IDs",
